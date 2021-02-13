@@ -1,8 +1,8 @@
 # Customer Collecting App
 
-![alt text](src/assets/login-page.png)
-![alt text](src/assets/customer-page.png)
-![alt text](src/assets/report-page.png)
+![Login Page](https://github.com/duyguevrim/customer-collecting-app/blob/master/src/assets/login-page.PNG)
+![Customer Page](https://github.com/duyguevrim/customer-collecting-app/blob/master/src/assets/customer-page.PNG)
+![Report Page](https://github.com/duyguevrim/customer-collecting-app/blob/master/src/assets/report-page.PNG)
 
 ## Project setup
 ```
@@ -25,5 +25,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
