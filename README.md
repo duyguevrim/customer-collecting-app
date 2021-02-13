@@ -1,5 +1,8 @@
 # Customer Collecting App
 
+![alt text](src/assets/login-page.png)
+![alt text](src/assets/customer-page.png)
+![alt text](src/assets/report-page.png)
 
 ## Project setup
 ```
